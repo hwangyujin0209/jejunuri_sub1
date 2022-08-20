@@ -38,6 +38,7 @@ body{
     height: 200px;
     position: absolute;
     top:0; left:0;
+    z-index: 99;
 }
 
 .t_header_inner{
